@@ -17,5 +17,7 @@ public class BitShifter {
 		System.out.println(numShifted3);
 		//numShifted3 (32)=100000
 		// FYI: Binary values can be shifted to the right as well using the >> operator.	
+		int numShifted4=188>>3;
+		System.out.println(numShifted4);
 	}
 }
